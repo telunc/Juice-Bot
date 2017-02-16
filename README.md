@@ -22,4 +22,7 @@ If the npminstall.bat fails here is a list of everything to install
     fs
     google
     urban
-    ```
+```
+
+## NO SUPPORT IS OFFERED FOR THIS DOWNLOADED COPY OF JUICEBOT ##
+## NONE ##
