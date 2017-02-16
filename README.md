@@ -28,7 +28,7 @@ If the npminstall.bat fails here is a list of everything to install
 2. if that doesnt work open up CMD where the bot.js file is and do `node bot.js`
 
 ##Issues
-If you see something like the code is messed up join the [Server](https://discord.gg/u9AXz3q) adn tell me
+If you see something like the code is messed up join the [Server](https://discord.gg/u9AXz3q) and tell me
 
-## NO SUPPORT IS OFFERED FOR THIS DOWNLOADED COPY OF JUICEBOT 
-## NONE 
+##NO SUPPORT IS OFFERED FOR THIS DOWNLOADED COPY OF JUICEBOT 
+##NONE 
