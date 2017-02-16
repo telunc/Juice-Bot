@@ -14,8 +14,6 @@ const config = require('../config.json');
 //Config Settings
 const token = config.token;
 const version = config.version;
-const email = config.email;
-const password = config.password
 const defaultPrefix = config.prefix;
 //Web
 const urban = require('urban');
@@ -130,26 +128,12 @@ End of prefix notifier
 /*
 Other Events
 */
-bot.on('guildMemberAdd', (guild,member,message) => {
-if(guild.id === "250042661455527938"){
-  member.addRole('250344448297271296').catch(console.log);
-  guild.channels.get('250343771890384897').sendMessage(`Welcome ${member} to Tinyurls for more info visit www.turls.ml`).catch(console.log);}
-else{
-}
-});
 bot.on("guildCreate", (guild) => {
     console.log(bot.user.username + " was invited to and joined " + guild.name);
 });
-music.on('newSong', function(songs){
-    songs.msg.channel.sendMessage(`Now Playing **${songs.song.name}|[${songs.song.duration}]**|by ***${songs.song.requester}***`);
-});
 
-music.on('queueFinished', function(options){
-   options.msg.channel.sendMessage("No more musics in queue, will leave in 1 minute if another song isn't requested.");
-});
-/*
-End Of other events
-*/
+//End Of other events
+
 /*
 Login
 */
