@@ -8,11 +8,11 @@ Made by Logan Heinzelman (spected)
 [Server](https://discord.gg/u9AXz3q) |
 [Website](https://www.juicebot.xyz/)
 
-##How to set the bot up
-1. Edit the config.json file and fill out everything
-2. run npminstall.bat
+## How to set the bot up
+1. Edit the config.json file and fill out the required fields
+2. Run npminstall.bat
 
-If the npminstall.bat fails here is a list of everything to install
+If the npminstall.bat fails, here is a list of everything to install
 ```
     cleverbot-node
     cowsay
@@ -23,12 +23,11 @@ If the npminstall.bat fails here is a list of everything to install
     google
     urban
 ```
-##How to start the bot
+## How to start the bot
 1. Run runbot.bat
 2. if that doesnt work open up CMD where the bot.js file is and do `node bot.js`
 
-##Issues
+## Issues
 If you see something like the code is messed up join the [Server](https://discord.gg/u9AXz3q) and tell me
 
-##NO SUPPORT IS OFFERED FOR THIS DOWNLOADED COPY OF JUICEBOT 
-##NONE 
+## NO SUPPORT IS OFFERED FOR THIS DOWNLOADED COPY OF JUICEBOT 
