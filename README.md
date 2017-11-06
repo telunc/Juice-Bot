@@ -12,6 +12,9 @@ Made by Logan Heinzelman (spected)
 1. Edit the config.json file and fill out the required fields
 2. Run npminstall.bat
 
+1. Edit the config.json file and fill out everything
+2. run npminstall.bat
+
 If the npminstall.bat fails, here is a list of everything to install
 ```
     cleverbot-node
@@ -31,3 +34,5 @@ If the npminstall.bat fails, here is a list of everything to install
 If you see something like the code is messed up join the [Server](https://discord.gg/u9AXz3q) and tell me
 
 ## NO SUPPORT IS OFFERED FOR THIS DOWNLOADED COPY OF JUICEBOT 
+## NONE 
+
